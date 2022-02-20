@@ -1,1 +1,1 @@
-# Delphi-Programming-FMX-Course
+# Delphi Programming (FMX) Course
